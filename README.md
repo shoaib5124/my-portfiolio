@@ -27,9 +27,8 @@ It’s designed to showcase my projects, skills, and provide a way to connect wi
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](screenshot.png)  
-(Add a screenshot of your portfolio in this repo and name it screenshot.png)
-
+![Portfolio Screenshot]
+(screenshot.png)
 ---
 
 ## 📂 Project Structure
