@@ -1,1 +1,35 @@
 # my-portfiolio
+# 🌟 Personal Portfolio Website
+
+This is my personal portfolio website built using *HTML, **CSS, and **JavaScript*.  
+It’s designed to showcase my projects, skills, and provide a way to connect with me.
+
+---
+
+## 🚀 Live Demo
+🔗 *View Portfolio:* [Click Here](https://YourUsername.github.io/YourRepoName/)
+
+---
+
+## 📌 Features
+- Fully responsive design for mobile, tablet, and desktop
+- Smooth animations and hover effects
+- Project showcase section with links
+- Contact section
+
+---
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+## 📸 Preview
+![Portfolio Screenshot](screenshot.png)  
+(Add a screenshot of your portfolio in this repo and name it screenshot.png)
+
+---
+
+## 📂 Project Structure
